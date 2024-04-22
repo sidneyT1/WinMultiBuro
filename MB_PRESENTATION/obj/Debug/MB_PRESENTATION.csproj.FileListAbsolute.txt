@@ -1,0 +1,101 @@
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Projet Multiburo\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_PRESENTATION.exe.config
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Projet Multiburo\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_PRESENTATION.exe
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Projet Multiburo\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_PRESENTATION.pdb
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Projet Multiburo\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Projet Multiburo\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.Properties.Resources.resources
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Projet Multiburo\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.GenerateResource.cache
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Projet Multiburo\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Projet Multiburo\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.exe
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Projet Multiburo\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.pdb
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_PRESENTATION.exe.config
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_PRESENTATION.exe
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_PRESENTATION.pdb
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\Google.Protobuf.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\MySql.Data.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Buffers.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.IO.Pipelines.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Memory.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\ZstdSharp.dll
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\Google.Protobuf.pdb
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\Google.Protobuf.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\MySql.Data.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Buffers.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.IO.Pipelines.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Memory.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.Multiburo.resources
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.Properties.Resources.resources
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.GenerateResource.cache
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.CopyComplete
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.exe
+C:\Users\truchet\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.pdb
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_PRESENTATION.exe.config
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_PRESENTATION.exe
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_PRESENTATION.pdb
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\Google.Protobuf.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_DONNEES.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_METIER.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MySql.Data.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Buffers.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Memory.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\ZstdSharp.dll
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_DONNEES.pdb
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_DONNEES.dll.config
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_METIER.pdb
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MB_METIER.dll.config
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\Google.Protobuf.pdb
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\Google.Protobuf.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\MySql.Data.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Buffers.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Memory.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.AssemblyReference.cache
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.Multiburo.resources
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.Properties.Resources.resources
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.GenerateResource.cache
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.csproj.CopyComplete
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.exe
+C:\Users\sidne\Desktop\PROJET MULTIBURO\WinMultiBuro\MB_PRESENTATION\obj\Debug\MB_PRESENTATION.pdb
