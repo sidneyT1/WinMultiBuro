@@ -20,17 +20,20 @@ namespace MB_PRESENTATION
         public Multiburo()
         {
             InitializeComponent();
+            
         }
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+           
         }
+
+        
 
         private void label2_Click(object sender, EventArgs e)
         {
@@ -49,6 +52,13 @@ namespace MB_PRESENTATION
 
         private void btnAnnuler_Click(object sender, EventArgs e)
         {
+            NumBox.Clear();
+            LibBox.Clear();
+            TarBox.Clear();
+            CapNum.Value = 0;
+            BUradio.Checked = false;
+            OSradio.Checked = false;
+            SRradio.Checked = false;
 
         }
 
@@ -112,7 +122,7 @@ namespace MB_PRESENTATION
 
         private void NumBox_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
